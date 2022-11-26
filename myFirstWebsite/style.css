@@ -1,0 +1,45 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+    
+}
+#navigator {
+ padding: 10px 10px;
+ text-align: right;
+ width: auto;
+ background: #333333
+}
+#navigator a {
+    color: #f09;
+    display:inline-block;
+    padding: 10px;
+}
+#navigator img {
+    padding-right: 800px;
+}
+#introduction {
+    margin: 30px;
+    padding: 10px;
+}
+#introduction h2 {
+    color:#f09
+}
+.middle {
+    text-align: center;
+}
+body {
+    background-image: url(background.png);
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+}
+dl {
+    padding: 10px;
+    margin: 30px;
+    width: auto;
+}
+dt {
+    font-weight: bold;
+}
+dd {
+    margin: 20px;
+}
